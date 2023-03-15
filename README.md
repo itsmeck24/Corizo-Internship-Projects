@@ -11,3 +11,6 @@ In this project, We performed feature engineering to extract these features from
 
 
 ## Major Project - Wine Quality Analysis
+
+Predicting the Quality of Red Wine using Machine Learning Algorithms for Regression Analysis, Data Visualizations and Data Analysis.
+This dataset can be viewed as Classification/Regression task as the classes are ordered and not balanced i.e., intermediate quality wine are more than good/bad quality ones. 
