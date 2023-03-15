@@ -1,5 +1,5 @@
 # Corizo-Internship-Projects
-This repository contains both my Minor and Major Project during my Internship at Corizo.
+This repository contains both my Major and Minor Project during my Internship at Corizo.
 
 ## Major Project - Wine Quality Analysis
 
