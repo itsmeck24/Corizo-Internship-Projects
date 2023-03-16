@@ -4,7 +4,7 @@ This repository contains both my Major and Minor Project during my DataScience I
 ## Major Project - Wine Quality Analysis
 
 Predicting the Quality of Red Wine using Machine Learning Algorithms for Regression Analysis, Data Visualizations and Data Analysis.
-This dataset can be viewed as Classification/Regression task as the classes are ordered and not balanced i.e., intermediate quality wine are more than good/bad quality ones. 
+This dataset can be viewed as Classification/Regression task as the classes are ordered and not balanced i.e., number of intermediate quality wine are more than good/bad quality ones. 
 
 ## Minor Project - Stock Price Prediction
 
